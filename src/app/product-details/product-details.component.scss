@@ -1,0 +1,13 @@
+.container{
+    display: grid;
+    justify-content: left;
+    align-items: start;
+    margin-left: 100px;
+    max-width: 600px;
+    background-color: beige;
+}
+
+.disabled {
+    background-color: black;
+    color: white;
+}

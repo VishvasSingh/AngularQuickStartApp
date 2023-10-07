@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+.btn{
+    padding: 20px;
+    background-color: blue;
+    text-transform: capitalize;
+    color: white;
+}
+
+.container{
+    display: grid;
+    justify-content: left;
+    align-items: start;
+    margin-left: 100px;
+    max-width: 600px;
+    background-color: beige;
+}
